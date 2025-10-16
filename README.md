@@ -1,6 +1,6 @@
 # TM-MOE
 
-This repository contains the implementation of the work described in our upcoming paper. The code will be released after the paper's acceptance to ensure reproducibility and proper documentation.
+This repository contains the implementation of the work described in our upcoming paper "A Degradation-Aware Transformer-Mamba MoE for Hyperspectral and Multispectral Image Fusion". The code will be released after the paper's acceptance to ensure reproducibility and proper documentation.
 
 ---
 
